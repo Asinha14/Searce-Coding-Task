@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 HI Team,
 
 For running the Project Please clone the code from URL and open command prompt and activate virtualenvironment like venv\scripts\activate
@@ -15,5 +15,3 @@ I have given one dashboard where user can view the zira's and he can edit or del
 
 Please let me know if you need any other details.
 =======
-HI Ankita
->>>>>>> 0b59eca5ea1dc7ab4823f454f66c21ffb6cd6567
